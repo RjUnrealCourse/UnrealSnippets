@@ -1,5 +1,10 @@
 #define OUT
 
+
+/**
+ * Send a ray cast and send the first physics body hit
+ * @return  HitResult   Raycast result
+ */
 FHitResult UGrabber::GetFirstPhysicsBodyInReach()
 {    
     FHitResult HitResult;
