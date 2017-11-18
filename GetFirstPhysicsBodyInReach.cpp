@@ -1,3 +1,14 @@
+// check and add required headers
+#include "Engine/World.h"
+#include "GameFramework/Actor.h"
+#include "Components/ActorComponent.h"
+#include "PhysicsEngine/PhysicsHandleComponent.h"
+#include "Runtime/Engine/Classes/Components/InputComponent.h"
+#include "Runtime/Engine/Classes/Engine/EngineTypes.h"
+
+
+
+
 #define OUT
 
 
